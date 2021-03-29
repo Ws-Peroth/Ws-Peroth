@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - -->
 [![Ws-Peroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ws-Peroth)](https://github.com/Ws-Peroth/Ws-Peroth/edit/main/README.md)
+
+- 🌱 I’m currently learning 
+
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+![Made with C#](https://img.shields.io/badge/Made%20With-C%23-purple)
