@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - -->
 [![Ws-Peroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ws-Peroth)](https://github.com/Ws-Peroth/Ws-Peroth/edit/main/README.md)
 
-github-readme-stats.vercel.app/api/top-langs/?username={Ws-Peroth}&langs_count=8
+[github-readme-stats.vercel.app/api/top-langs/?username={Ws-Peroth}&langs_count=8]
 
 - 🌱 I’m currently learning 
 
