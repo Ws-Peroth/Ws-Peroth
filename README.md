@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - -->
 [![Ws-Peroth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ws-Peroth)](https://github.com/Ws-Peroth/Ws-Peroth/edit/main/README.md)
 
-[![Ws-Peroth's langue stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Ws-Peroth}&langs_count=8)](https://github.com/Ws-Peroth/Ws-Peroth/edit/main/README.md)
+[![Ws-Peroth's langue stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ws-Peroth&langs_count=8)](https://github.com/Ws-Peroth/Ws-Peroth/edit/main/README.md)
 
 - 🌱 I’m currently learning 
 
