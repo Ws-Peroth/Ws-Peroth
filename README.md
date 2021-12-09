@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Made with C#](https://img.shields.io/badge/Made%20With-C%23-purple)
 
 
-[![Ws-Peroth's langue stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ws-Peroth&langs_count=8)](https://github.com/Ws-Peroth/Ws-Peroth/edit/main/README.md)
+[![Ws-Peroth's langue stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ws-Peroth&langs_count=5)](https://github.com/Ws-Peroth/Ws-Peroth/edit/main/README.md)
 
